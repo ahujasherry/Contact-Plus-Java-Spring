@@ -1,0 +1,17 @@
+# Contact-Plus-Java-Spring
+- > Java Spring Boot web app where users can make/modify their contact list.
+- > It includes payment integration, smart search with pagination and sorting held together with Spring Security and server side validation. 
+- > It is Responsive for all screen sizes including smartphone
+- > Different user can have their own private contact list
+- > Admin have more privilege over normal user
+- > Tech Stack Used
+    - > Spring Boot
+    - > Thymeleaf
+    - > JPA
+    - > Spring Security
+    - > MySQL
+    - > HTML
+    - > CSS
+    - > JavaScript
+    - > Server Side Validation
+    - > Payment Integration within Users
